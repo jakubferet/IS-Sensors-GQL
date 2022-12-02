@@ -1,5 +1,5 @@
 # IS-Sensors-GQL
-Information system for sensors created with Python FastAPI framework, GraphQL API, SQLAlchemy and Postgres database
+Information system for sensors created using the Python FastAPI framework, GraphQL API, SQLAlchemy and Postgres database
 #
 First version of Sensor Information System created with FastAPI framework and GraphQL API.
 
